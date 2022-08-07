@@ -1,7 +1,4 @@
-# JS-game
-
-Simple overview of use/purpose.
-
+# **JavaScript-game**
 ## Description
 
 An in-depth paragraph about your project and overview of use.
